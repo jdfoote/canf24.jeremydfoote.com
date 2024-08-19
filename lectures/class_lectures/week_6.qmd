@@ -1,0 +1,64 @@
+---
+title: Week 6 - Centrality and Centralization
+sort: 6
+format: 
+  revealjs:
+    css: /resources/custom_css.css
+    theme: white
+    progress: true
+    transition: convex
+    reveal_plugins: ['notes']
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = './')
+source("resources/preamble.R")
+```
+
+## Dad Joke
+
+Can you believe my wife told me to quit acting like a flamingo?
+
+<p class='fragment'>
+I had to put my foot down.
+</p>
+
+## Housekeeping
+
+> - Homework questions in #homework-help on Discord
+>	- How to copy and paste code
+
+
+<!--
+## Collective Norms Discussion
+
+> - I think our in-person conversations could be better
+> - Too many tech distractions
+> - Coming prepared
+> - How to have more natural conversations?
+-->
+
+
+## Concept Review
+
+> - What is centrality?
+> - What is the difference between centrality and centralization?
+> - What is degree centrality?
+> - What are some shortcomings of degree centrality as a measure of power/influence?
+> - What is betweenness centrality?
+> - What is closeness centrality?
+> - What is eigenvector centrality?
+
+## Concept Review
+
+> - What aspects of power/influence do centrality measures miss?
+> - What can centralization tell us about a network?
+> - What does density tell us about a network?
+> - What is hierarchy?
+
+## Discussion Questions
+
+
+## R Review
+

@@ -1,0 +1,36 @@
+---
+title: "Week 14: Networks and collaboration"
+date: "2024-11-19"
+---
+
+
+### Tuesday
+
+**Assignment Due:**
+
+* [R Lab 8 - Calculating network statistics](/assignments/r_lab_8_%E2%80%93_network_stats.qmd)
+* [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
+
+**Readings:** 
+
+* Read the [Wikipedia Article about The Wealth of Networks](https://en.wikipedia.org/wiki/The_Wealth_of_Networks)
+* Skim section two of Benkler, Y. (2002). [Coase’s Penguin, or, Linux and "The Nature of the Firm."](https://www-jstor-org.ezproxy.lib.purdue.edu/stable/1562247) The Yale Law Journal, 112(3), 369.
+
+**Lecture video:**
+
+{{< video https://youtu.be/_8gFd0XZJKc >}} [17:19]
+
+* Slides
+
+<iframe class='slide-deck' src="/lectures/content_lectures/networks_and_collaboration.html"></iframe>
+
+
+### Thursday
+
+**Assignments Due:**
+
+* Rough draft of [Final Project](/assignments/Final-project.qmd) on Brightspace and sent to your "peers"
+
+**Class Schedule:**
+
+* No class - work on Final Project

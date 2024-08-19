@@ -1,0 +1,13 @@
+sample_syllabi
+class_list.*
+readings/
+.Rproj.user
+grades.*
+.Rhistory
+final_project_examples.pdf
+
+/.quarto/
+/_site/
+*_files/
+_freeze/
+site_libs/
