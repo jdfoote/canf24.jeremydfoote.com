@@ -14,3 +14,10 @@ date: 2024-09-09
 
 [Download Assignment (right-click and save)](/assignments/r_labs/lab_2_creating_networks.qmd)
 
+## Additional Requirement
+
+For this lab, I want you to also practice asking programming questions on Discord. As you work on the assignment, identify something that is confusing or where you get stuck.
+
+Then, go to the #homework-help channel on Discord and ask a question. Practice using the syntax for posting code snippets - i.e., use three backticks (\`\`\`) before and after your code block.
+
+

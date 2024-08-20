@@ -10,6 +10,7 @@ project:
 resources:
     - "assignments/r_labs/*.qmd"
     - "assignments/ego_networks/*.qmd"
+    - "CNAME"
 
 pre-render:
   - python scripts/create_assignment_files.py
@@ -72,6 +73,7 @@ website:
   repo-url: "https://github.com/jdfoote/Communication-and-Social-Networks"
   repo-actions: ["edit", "issue"]
   favicon: "resources/favicon.ico"
+  site-url: "https://canf24.jeremydfoote.com"
             
 
 
