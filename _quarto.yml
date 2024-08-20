@@ -71,7 +71,7 @@ website:
             - assignments/r_lab_8_–_network_stats.qmd
   repo-url: "https://github.com/jdfoote/Communication-and-Social-Networks"
   repo-actions: ["edit", "issue"]
-
+  favicon: "resources/favicon.ico"
             
 
 
