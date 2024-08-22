@@ -1452,7 +1452,11 @@
     "href": "assignments/Self-Assessment-Reflection.html",
     "title": "Self-Assessment Reflection",
     "section": "",
-    "text": "Answer the following questions about your learning and participation thus far. Please note that there are a lot of questions. I am not expecting extensive essays for these. Some may be answered in a single sentence, while others may inspire more detail. Remember, also, that the grade you assign here is not some element of a permanent calculation - this is for us to align our expectations and set goals. So, if you absolutely want to earn an A in the class, but you assign yourself a B- for your work thus far, you can absolutely still earn an A by setting and meeting higher goals for the remainder of the course.\n\nWhat have you done to ensure that you understand the material and concepts?\nHow have you addressed challenges and/or feedback?\nWhat have you done to apply the concepts we’ve been learning to your own experiences?\nHow have you used AI in this class (ChatGPT, Claude.AI, etc)?\nHow have you helped others in the class to learn?\nWhat is something you could improve on related to the class?\nWhat are your goals for the rest of class?\nWhat else would you like to share?\nWhat would you like feedback on?\nBased on your answers above, the work you have done, and the guidelines in the syllabus, what grade would you assign yourself thus far? Why?\n\nFinally, some feedback for me.\nI have learned that feedback is more honest (and therefore more helpful!) if given anonymously, so I would encourage you to fill out this survey."
+    "text": "Answer the following questions about your learning and participation thus far. Please note that there are a lot of questions. I am not expecting extensive essays for these. Some may be answered in a single sentence, while others may inspire more detail. Remember, also, that the grade you assign here is not some element of a permanent calculation - this is for us to align our expectations and set goals. So, if you absolutely want to earn an A in the class, but you assign yourself a B- for your work thus far, you can absolutely still earn an A by setting and meeting higher goals for the remainder of the course.\n\nWhat have you done to ensure that you understand the material and concepts?\nHow have you addressed challenges and/or feedback?\nWhat have you done to apply the concepts we’ve been learning to your own experiences?\nHow have you used AI in this class (ChatGPT, Claude.AI, etc)?\nHow have you helped others in the class to learn?\nWhat is something you could improve on related to the class?\nWhat are your goals for the rest of class?\nWhat else would you like to share?\nWhat would you like feedback on?\nBased on your answers above, the work you have done, and the guidelines in the syllabus, what grade would you assign yourself thus far? Why?\n\nFinally, some feedback for me.\nI have learned that feedback is more honest (and therefore more helpful!) if given anonymously, so I would encourage you to fill out this survey.",
+    "crumbs": [
+      "Assignments",
+      "Self-Assessment Reflection"
+    ]
   },
   {
     "objectID": "assignments/Final-project.html",
@@ -1583,11 +1587,71 @@
     "text": "Debrief\n\nWho succeeded?\nWhy? How did network position influence your ability to gather information?\nHow did you make effort to overcome your constraints?\nHow did you decide who to talk to?\nHow is this game similar or different from real life situations?"
   },
   {
+    "objectID": "activities/network_simulation/resource_game.html#discord-signup",
+    "href": "activities/network_simulation/resource_game.html#discord-signup",
+    "title": "The Resource Game",
+    "section": "Discord signup",
+    "text": "Discord signup\nhttps://discord.gg/WSc5J7stgg"
+  },
+  {
+    "objectID": "activities/network_simulation/resource_game.html#the-game",
+    "href": "activities/network_simulation/resource_game.html#the-game",
+    "title": "The Resource Game",
+    "section": "The game",
+    "text": "The game\nEach of you needs things that other people in the room have. These resources are represented by letters.\nHowever, you are only “friends” with a small number of people. These are the people that you can communicate with, ask for resources, and give resources to.\nThe goal is to get the resources that you need as quickly as possible."
+  },
+  {
+    "objectID": "activities/network_simulation/resource_game.html#rules",
+    "href": "activities/network_simulation/resource_game.html#rules",
+    "title": "The Resource Game",
+    "section": "Rules",
+    "text": "Rules\n\nOnly communicate through written messages, to neighbors\nGive resources by sending ‘$give jdfoote A’ to the NetworkGameBot\nIf you forget what you have/need, send ‘$status’\nIf you are an observer, send ‘$status’ to get an updated network graph\nYou can continue playing after you have all resources, if you want"
+  },
+  {
+    "objectID": "activities/network_simulation/resource_game.html#how-did-it-go",
+    "href": "activities/network_simulation/resource_game.html#how-did-it-go",
+    "title": "The Resource Game",
+    "section": "How did it go?",
+    "text": "How did it go?\n\nWhat worked well?\nWhat didn’t?\nWho was fastest? Why?\nWhat was the longest path a resource traveled?"
+  },
+  {
+    "objectID": "activities/network_simulation/resource_game.html#global-network",
+    "href": "activities/network_simulation/resource_game.html#global-network",
+    "title": "The Resource Game",
+    "section": "Global network",
+    "text": "Global network"
+  },
+  {
+    "objectID": "activities/network_simulation/resource_game.html#debrief-topics-to-cover",
+    "href": "activities/network_simulation/resource_game.html#debrief-topics-to-cover",
+    "title": "The Resource Game",
+    "section": "Debrief topics to cover",
+    "text": "Debrief topics to cover\n\nDegree centrality\nReciprocity\nSocial capital\nStructural holes\nReputation and deceit\nPosition and power\nMultiplexity\nNumber vs. type of ties (centrality measures)"
+  },
+  {
+    "objectID": "activities/network_simulation/resource_game.html#debrief-topics-to-cover-1",
+    "href": "activities/network_simulation/resource_game.html#debrief-topics-to-cover-1",
+    "title": "The Resource Game",
+    "section": "Debrief topics to cover",
+    "text": "Debrief topics to cover\n\nGlobal/local networks\nTie maintenance\nSponsorship\nNorms and social conventions"
+  },
+  {
+    "objectID": "activities/network_simulation/resource_game.html#meta-discussion",
+    "href": "activities/network_simulation/resource_game.html#meta-discussion",
+    "title": "The Resource Game",
+    "section": "Meta discussion",
+    "text": "Meta discussion\n\nHow does this differ from real-world networks?\nWhat does this make you see differently?"
+  },
+  {
     "objectID": "assignments/Final-Self-Assessment-Reflection.html",
     "href": "assignments/Final-Self-Assessment-Reflection.html",
     "title": "Final Self-Assessment Reflection",
     "section": "",
-    "text": "Answer the following questions about your learning and participation thus far. Please note that there are a lot of questions. I am not expecting extensive essays for these. Some may be answered in a single sentence, while others may inspire more detail.\n\nWhat have you done to ensure that you understand the material and concepts?\nHow have you addressed previous goals, challenges, and/or feedback?\nWhat have you done to apply the concepts we’ve been learning to your own experiences?\nWhat have you learned in this class that you will take with you?\nWhat obstacles have you overcome?\nWhat else would you like to share?\n\nNext, I’d like you to look on Brightspace and Discord and review the work you’ve done, and think about your participation in class. I’d also like you to review the expectations for each grade in this class.\n\nBased on your answers above, the work you have done, and the guidelines in the syllabus, what grade would you assign yourself in the class? Why?\n\nFinally, some feedback for me (feel free to submit this at https://forms.gle/ZQbTXHiaqy7WrxFj7 if you’d prefer to be anonymous):\n\nWhat did you enjoy about this class?\nWhat are two ways in which this class could be better?"
+    "text": "Answer the following questions about your learning and participation thus far. Please note that there are a lot of questions. I am not expecting extensive essays for these. Some may be answered in a single sentence, while others may inspire more detail.\n\nWhat have you done to ensure that you understand the material and concepts?\nHow have you addressed previous goals, challenges, and/or feedback?\nWhat have you done to apply the concepts we’ve been learning to your own experiences?\nWhat have you learned in this class that you will take with you?\nWhat obstacles have you overcome?\nWhat else would you like to share?\n\nNext, I’d like you to look on Brightspace and Discord and review the work you’ve done, and think about your participation in class. I’d also like you to review the expectations for each grade in this class.\n\nBased on your answers above, the work you have done, and the guidelines in the syllabus, what grade would you assign yourself in the class? Why?\n\nFinally, some feedback for me (feel free to submit this at https://forms.gle/ZQbTXHiaqy7WrxFj7 if you’d prefer to be anonymous):\n\nWhat did you enjoy about this class?\nWhat are two ways in which this class could be better?",
+    "crumbs": [
+      "Assignments",
+      "Final Self-Assessment Reflection"
+    ]
   },
   {
     "objectID": "assignments/Homework-1.html",
