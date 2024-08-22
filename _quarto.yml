@@ -60,6 +60,9 @@ website:
             - assignments/Homework-1.qmd
             - assignments/ego_networks_activity.qmd
             - assignments/Final-project.qmd
+            - assignments/Self-Assessment-Reflection.qmd
+            - assignments/Final-Self-Assessment-Reflection.qmd
+
         - section: "R Labs"
           contents: 
             - assignments/r_lab_1_-_installation.qmd

@@ -1,15 +1,13 @@
 ---
 title: The Resource Game
-output: 
-  revealjs::revealjs_presentation:
+format: 
+  revealjs:
+    css: /resources/custom_css.css
     theme: white
     progress: true
     transition: convex
-    self_contained: false
     reveal_plugins: ['notes']
-    css: .././resources/custom_css.css
-    lib_dir: ../../libs
-    allow_uptree_lib_dir: True
+    incremental: true
 ---
 
 ```{r setup, include=FALSE}
@@ -56,6 +54,8 @@ The goal is to get the resources that you need as quickly as possible.
 - Position and power
 - Multiplexity
 - Number vs. type of ties (centrality measures)
+
+## Debrief topics to cover
 - Global/local networks
 - Tie maintenance
 - Sponsorship
