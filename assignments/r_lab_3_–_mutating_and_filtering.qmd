@@ -4,6 +4,11 @@ date: 2024-09-23
 ---
 
 
+## Video Explanation
+
+{{< video https://youtu.be/1gEmjJTdcL4 >}}
+
+
 
 ## Assignment File
 
