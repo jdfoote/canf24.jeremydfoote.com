@@ -37,6 +37,7 @@ One astronaut says to another, "I can’t find any milk for my coffee"
 >   - How did reading these articles go?
 >   - Using AI to help
 >   - How to read academic articles
+> - Tech use discussion
 
 
 ## Edge formation review
@@ -65,4 +66,4 @@ One astronaut says to another, "I can’t find any milk for my coffee"
 
 ## Thursday
 
-> - Visit from Dr. TeBlunthuis
+> - Keep working on R Labs
