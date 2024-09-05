@@ -237,7 +237,7 @@
     "href": "schedule/week_03.html",
     "title": "Week 3: How are communication networks formed?",
     "section": "",
-    "text": "Tuesday\nAssignment Due (on Monday):\n\nReading Review Assignments\n\nReadings:\n\nFeld, S. L. (1981). The focused organization of social ties. American Journal of Sociology, 86(5), 1015–1035.\nMcPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27, 415–444.\n[Optional] Monge, P. R., & Contractor, N. S. (2003). Theories of communication networks. Oxford, UK: Oxford University Press. (pp. 298–314) - On Brightspace under Content &gt; Readings\n\nNote: This week involves reading two academic articles. Read this to understand my expectations and some tips for reading and understanding these articles. This video goes over how you can use Claude.ai to understand papers better.\nLecture Video:\n\nTie Formation [14:55]\n\n\n\nSlides\n\n\n\nConcepts:\n\nExposure, formation, maintenance, decay\nHomophily\nReciprocity\nTriadic closure\n\n\n\n\nThursday\nSupplementary R lectures (watch before class):\n\nWhy R + Programming principles lecture [12:53]\n\n\nClass Schedule:\n\nR Lab 2 - Creating Networks",
+    "text": "Tuesday\nAssignment Due (on Monday):\n\nReading Review Assignments\nDiscussion Questions\n\nReadings:\n\nFeld, S. L. (1981). The focused organization of social ties. American Journal of Sociology, 86(5), 1015–1035.\nMcPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27, 415–444.\n[Optional] Monge, P. R., & Contractor, N. S. (2003). Theories of communication networks. Oxford, UK: Oxford University Press. (pp. 298–314) - On Brightspace under Content &gt; Readings\n\nNote: This week involves reading two academic articles. Read this to understand my expectations and some tips for reading and understanding these articles. This video goes over how you can use Claude.ai to understand papers better.\nLecture Video:\n\nTie Formation [14:55]\n\n\n\nSlides\n\n\n\nConcepts:\n\nExposure, formation, maintenance, decay\nHomophily\nReciprocity\nTriadic closure\n\n\n\n\nThursday\nSupplementary R lectures (watch before class):\n\nWhy R + Programming principles lecture [12:53]\n\n\nClass Schedule:\n\nR Lab 2 - Creating Networks",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -870,7 +870,7 @@
     "href": "lectures/class_lectures/week_3.html#housekeeping",
     "title": "Week 3 - Edge Formation",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nTurning in R homework\n3-2-1 Assignments and Discussion Questions\nReadings\n\nOn Brightspace\nHow did reading these articles go?\nUsing AI to help\nHow to read academic articles"
+    "text": "Housekeeping\n\nTurning in R homework\n3-2-1 Assignments and Discussion Questions\nReadings\n\nOn Brightspace\nHow did reading these articles go?\nUsing AI to help\nHow to read academic articles\n\nTech use discussion"
   },
   {
     "objectID": "lectures/class_lectures/week_3.html#edge-formation-review",
@@ -905,7 +905,7 @@
     "href": "lectures/class_lectures/week_3.html#thursday",
     "title": "Week 3 - Edge Formation",
     "section": "Thursday",
-    "text": "Thursday\n\nVisit from Dr. TeBlunthuis"
+    "text": "Thursday\n\nKeep working on R Labs"
   },
   {
     "objectID": "lectures/class_lectures/week_16.html#todays-dad-joke",

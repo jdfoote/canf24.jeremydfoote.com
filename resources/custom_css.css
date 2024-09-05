@@ -30,7 +30,9 @@ color: LightCoral;
 text-transform: none;
 }
 
-
+.reveal .level1 {
+  text-align:center;
+}
 /* .reveal h1 {
 margin-top:200px;
 } */
