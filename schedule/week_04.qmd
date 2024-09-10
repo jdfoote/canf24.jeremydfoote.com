@@ -16,7 +16,7 @@ date: "2024-09-10"
 **Readings:** 
 
 * Krackhardt, D., & Hanson, J. R. (1993). [Informal networks: The company behind the chart](https://web.archive.org/web/20230224144321/https://hbr.org/1993/07/informal-networks-the-company-behind-the-chart). Harvard business review, 71(4), 104-111.
-* Katz, N., Lazer, D., Arrow, H., & Contractor, N. (2004). [Network theory and small groups](https://libkey.io/libraries/228/articles/5387888/full-text-file?utm_source=api_559). Small Group Research, 35(3), 307–332.
+* Katz, N., Lazer, D., Arrow, H., & Contractor, N. (2004). [Network theory and small groups](https://web.archive.org/web/20240429053913/http://www.davidlazer.com/sites/default/files/21%20Lazer_Katz_Small_Group.pdf). Small Group Research, 35(3), 307–332.
 
 **Lecture video:**
 
