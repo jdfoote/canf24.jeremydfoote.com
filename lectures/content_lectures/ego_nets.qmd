@@ -43,7 +43,7 @@ G = G|>
   mutate(is_neighbor = dist_from_2 <= 1)
 
 plot = G |>
-  ggraph(layout = 'lgl') + 
+  ggraph(layout = 'stress') + 
   geom_edge_fan(width=.5) + 
   theme(legend.position = 'right')
 
@@ -64,7 +64,7 @@ plot + geom_node_point(aes(color = as.factor(dist_from_2)), size = 3) +
 ```{r}
 G |>
   filter(is_neighbor == TRUE) |>
-  ggraph(layout = 'lgl') +
+  ggraph(layout = 'stress') +
   geom_edge_fan(width=.5) + 
   geom_node_point(aes(color = as.factor(dist_from_2)), size = 3) + 
   theme(legend.position = 'right') + 
@@ -114,12 +114,3 @@ G |>
 >	- Build picture of whole network (Krackhardt et al)
 > - Think in terms of potential networks and activation and mobilization
 > - Recognize the value of "weak ties"
-
-
-
-## Today's Dad Joke
-
-I accidentally swallowed a bunch of scrabble tiles.
-
-My next trip to the bathroom could spell disaster.
-
