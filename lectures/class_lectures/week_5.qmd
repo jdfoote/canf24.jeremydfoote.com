@@ -45,6 +45,7 @@ Brochure.
 
 > - What is an "ego network"?
 > - What is the "cognitive activation" of a network?
+> - Why might SES be related to which networks are activated in stress?
 
 
 ## Review
@@ -56,6 +57,11 @@ Brochure.
 > - What are some ways that our perceptions of a network could influence our behaviors?
 
 ## Discussion Questions
+
+> - Goffman and networks
+> - Surveys as questionable data sources  
+> - How else could we measure networks?
+> - Ego vs. nodes
 
 
 ## Summary

@@ -9,10 +9,10 @@ We start with a "setup" block of code, that loads our libraries and initializes 
 ```{r setup, warning=FALSE, message=FALSE}
 knitr::opts_chunk$set(echo = T)
 knitr::opts_knit$set(root.dir = './')
+library(tidyverse)
 library(igraph)
 library(tidygraph)
 library(ggraph)
-library(tidyverse)
 set_graph_style(family='sans') # This sets the default style to the graph style
 ```
 
@@ -59,7 +59,7 @@ G |>
 However, you can also create other kinds of columns. For example, you could use `mutate` to give names to each of the nodes. The code below creates a small network and adds names to it. (The `c` is how we create a list of things in R)
 
 ```{r}
-play_erdos_renyi(5, .5) |>
+play_gnp(5, .5) |>
 activate(nodes) |>
   mutate(names = c('Alfred','Bonnie', 'Clyde', 'Doug','Enola'))
 ```
