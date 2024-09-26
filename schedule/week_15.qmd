@@ -8,6 +8,8 @@ date: "2024-12-03"
 **Assignment Due:**
 
 * Feedback on final project to peers
+* [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
+    * [Discussion Questions](#discussion-questions)
 
 **Readings:**
 
@@ -23,3 +25,7 @@ date: "2024-12-03"
 **Resources:**
 
 * (Optional) [Advanced network visualizations in R](/assignments/advanced_visualizations.qmd)
+
+### Discussion Questions
+
+<iframe src="https://pollev-embeds.com/discourses/5lZh3mPUS8VHWEC4XwxCd/respond" width="900px" height="600px"></iframe>

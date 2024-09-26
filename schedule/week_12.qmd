@@ -9,6 +9,7 @@ date: "2024-11-05"
 
 * [R Lab 7 - Finding and visualizing groups in networks](/assignments/r_lab_7_%E2%80%93_groups_in_networks.qmd)
 * [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
+    * [Discussion Questions](#discussion-questions)
 
 **Readings:**
 
@@ -17,4 +18,8 @@ date: "2024-11-05"
 
 ### Thursday
 
-* No Class - Study for exam
+* Exam Review
+
+### Discussion Questions
+
+<iframe src="https://pollev-embeds.com/discourses/vdKmXYn8QtlscoGdLTk9z/respond" width="900px" height="600px"></iframe>

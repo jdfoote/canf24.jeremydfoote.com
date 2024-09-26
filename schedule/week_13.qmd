@@ -8,6 +8,7 @@ date: "2024-11-12"
 **Assignment Due:**
 
 * [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
+    * [Discussion Questions](#discussion-questions)
 
 **Readings:**
 
@@ -31,3 +32,7 @@ date: "2024-11-12"
 ### Thursday
 
 * In class exam!
+
+### Discussion Questions
+
+<iframe src="https://pollev-embeds.com/discourses/e5gZH9oLKLIlkWeCP5kiQ/respond" width="800px" height="600px"></iframe>

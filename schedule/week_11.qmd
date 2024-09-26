@@ -8,6 +8,7 @@ date: "2024-10-29"
 **Assignment Due:**
 
 * [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
+  * [Discussion Questions](#discussion-questions)
 * Submit two exam questions on Brightspace
 * [Visualization Challenge](/assignments/Visualization-challenge.qmd)
 * Sign up for a Self Reflection Discussion [on my calendar](https://app.simplymeet.me/jeremy-foote/15min)
@@ -34,3 +35,7 @@ date: "2024-10-29"
 **Class Schedule:**
 
 * [R Lab 7 - Finding and visualizing groups in networks](/assignments/r_lab_7_%E2%80%93_groups_in_networks.qmd)
+
+### Discussion Questions
+
+<iframe src="https://pollev-embeds.com/discourses/zuGQIaekIdASj4KjqlbRS/respond" width="900px" height="600px"></iframe>
