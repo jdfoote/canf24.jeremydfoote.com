@@ -35,8 +35,7 @@ Change the code below so that the path points to where you saved the edgelist an
 
 ```{r}
 edges <- read_excel('/home/jeremy/Teaching/communication_and_networks/activities/ego_networks/ego_edges.xlsx')
-#nodes <- read_excel('/home/jeremy/Teaching/communication_and_networks/activities/ego_networks/ego_atts.xlsx', col_types = c("text", "text", "numeric", "text", "numeric", "logical"))
-nodes <- read_excel('/home/jeremy/Teaching/communication_and_networks/activities/ego_networks/ego_atts.xlsx')#, col_types = c("text", "text", "numeric", "text", "numeric", "logical"))
+nodes <- read_excel('/home/jeremy/Teaching/communication_and_networks/activities/ego_networks/ego_atts.xlsx')
 ```
 
 Code to load the file into R and make it into a network object.

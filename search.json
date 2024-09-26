@@ -165,7 +165,7 @@
     "href": "schedule/week_15.html",
     "title": "Week 15: Networked racism",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nFeedback on final project to peers\n\nReadings:\n\nFernandez, R. M., & Fernandez-Mateo, I. (2006). Networks, Race, and Hiring. American Sociological Review, 71(1), 42–71. Read the introduction (pp. 42–47) and the Summary and Conclusion (pp. 65–67)\nSunstein, C. R. (1991). Why markets don’t stop discrimination. Social Philosophy and Policy, 8(02), 22–37. https://doi.org/10.1017/S0265052500001114\n\n\n\nThursday\nClass Schedule:\n\nFinal project presentations (optional)\n\nResources:\n\n(Optional) Advanced network visualizations in R",
+    "text": "Tuesday\nAssignment Due:\n\nFeedback on final project to peers\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nFernandez, R. M., & Fernandez-Mateo, I. (2006). Networks, Race, and Hiring. American Sociological Review, 71(1), 42–71. Read the introduction (pp. 42–47) and the Summary and Conclusion (pp. 65–67)\nSunstein, C. R. (1991). Why markets don’t stop discrimination. Social Philosophy and Policy, 8(02), 22–37. https://doi.org/10.1017/S0265052500001114\n\n\n\nThursday\nClass Schedule:\n\nFinal project presentations (optional)\n\nResources:\n\n(Optional) Advanced network visualizations in R\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -177,7 +177,7 @@
     "href": "schedule/week_13.html",
     "title": "Week 13: Technology and networks",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nReading Review\n\nReadings:\n\nPariser, E. Beware Online Filter Bubbles TED talk\nFletcher, R. The truth behind filter bubbles: Bursting some myths.\nBail, C. Should we break our echo chambers?\nCohen, M. Context Collapse\n(Optional) Kleinberg, J. (2012). The Convergence of Social and Technological Networks. In M. Agrawal, S. B. Cooper, & A. Li (Eds.), Theory and Applications of Models of Computation.\nChris Bail, et al. (2018). Exposure to opposing views on social media can increase political polarization. PNAS.\n\nLecture Video:\n [19:38]\n\nSlides\n\n\n\n\n\nThursday\n\nIn class exam!",
+    "text": "Tuesday\nAssignment Due:\n\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nPariser, E. Beware Online Filter Bubbles TED talk\nFletcher, R. The truth behind filter bubbles: Bursting some myths.\nBail, C. Should we break our echo chambers?\nCohen, M. Context Collapse\n(Optional) Kleinberg, J. (2012). The Convergence of Social and Technological Networks. In M. Agrawal, S. B. Cooper, & A. Li (Eds.), Theory and Applications of Models of Computation.\nChris Bail, et al. (2018). Exposure to opposing views on social media can increase political polarization. PNAS.\n\nLecture Video:\n [19:38]\n\nSlides\n\n\n\n\n\nThursday\n\nIn class exam!\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -189,7 +189,7 @@
     "href": "schedule/week_11.html",
     "title": "Week 11: Communities and Core-periphery",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nReading Review\nSubmit two exam questions on Brightspace\nVisualization Challenge\nSign up for a Self Reflection Discussion on my calendar\n\nMust happen before November 5th\nPlease prioritize office hours (Tuesdays from 2-4)\n\n\nReadings:\n\nGirvan, M., & Newman, M. E. (2002). Community structure in social and biological networks. Proceedings of the National Academy of Sciences.\nBarberá, P., Wang, N., Bonneau, R., Jost, J. T., Nagler, J., Tucker, J., & González-Bailón, S. (2015). The critical periphery in the growth of social protests. PLoS ONE.\n\nClaude.ai Summary\n\n(Optional) Hanneman, R. A., & Riddle, M. (2005). Cliques and sub-groups. In Introduction to social network methods. University of California.\n\nVideo Lecture:\n [23:15]\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nR Lab 7 - Finding and visualizing groups in networks",
+    "text": "Tuesday\nAssignment Due:\n\nReading Review\n\nDiscussion Questions\n\nSubmit two exam questions on Brightspace\nVisualization Challenge\nSign up for a Self Reflection Discussion on my calendar\n\nMust happen before November 5th\nPlease prioritize office hours (Tuesdays from 2-4)\n\n\nReadings:\n\nGirvan, M., & Newman, M. E. (2002). Community structure in social and biological networks. Proceedings of the National Academy of Sciences.\nBarberá, P., Wang, N., Bonneau, R., Jost, J. T., Nagler, J., Tucker, J., & González-Bailón, S. (2015). The critical periphery in the growth of social protests. PLoS ONE.\n\nClaude.ai Summary\n\n(Optional) Hanneman, R. A., & Riddle, M. (2005). Cliques and sub-groups. In Introduction to social network methods. University of California.\n\nVideo Lecture:\n [23:15]\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nR Lab 7 - Finding and visualizing groups in networks\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -201,7 +201,7 @@
     "href": "schedule/week_09.html",
     "title": "Week 9: Scale-free networks and the friendship paradox",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nProposal for Final Project; this is a few paragraphs about which final project you’d like to do, and what you are planning to do for it.\nTroubled Lands Reflection\nReading Review\n\nReadings:\n\nFeld, Scott L. (1991), Why your friends have more friends than you do. American Journal of Sociology, 96 (6): 1464–1477. https://doi.org/10.1086%2F229693\nEarly Detection of an Outbreak using the Friendship Paradox\nNetworks are everywhere with Albert-László Barabási\n(Optional) Christakis, N. A., & Fowler, J. H. (2010). Social Network Sensors for Early Detection of Contagious Outbreaks. PLOS ONE, 5(9), e12948. https://doi.org/10.1371/journal.pone.0012948\n\nLecture Video:\n\nScale-free networks and the Friendship Paradox [18:21]\n\n\n\nSlides\n\n\n\n\n\nThursday\nAssignments Due:\n\nSocial Search Assignment\n\nClass Schedule:\n\nSix Degrees of Wikipedia Activity",
+    "text": "Tuesday\nAssignment Due:\n\nProposal for Final Project; this is a few paragraphs about which final project you’d like to do, and what you are planning to do for it.\nTroubled Lands Reflection\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nFeld, Scott L. (1991), Why your friends have more friends than you do. American Journal of Sociology, 96 (6): 1464–1477. https://doi.org/10.1086%2F229693\nEarly Detection of an Outbreak using the Friendship Paradox\nNetworks are everywhere with Albert-László Barabási\n(Optional) Christakis, N. A., & Fowler, J. H. (2010). Social Network Sensors for Early Detection of Contagious Outbreaks. PLOS ONE, 5(9), e12948. https://doi.org/10.1371/journal.pone.0012948\n\nLecture Video:\n\nScale-free networks and the Friendship Paradox [18:21]\n\n\n\nSlides\n\n\n\n\n\nThursday\nAssignments Due:\n\nSocial Search Assignment\n\nClass Schedule:\n\nSix Degrees of Wikipedia Activity\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -213,7 +213,7 @@
     "href": "schedule/week_07.html",
     "title": "Week 7: Social Capital, structural holes, and weak ties",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nR Lab 4 - Intro to ggraph\nReading Review Assignments\n\nReadings:\n\nGranovetter, M. S. (1973). The Strength of Weak Ties. American Journal of Sociology, 78(6), 1360–1380. https://doi.org/10.1086/225469\n\nClaude.ai summary\n\nKadushin, C. (2012). Networks as Social Capital, in Kadushin, C. (2012). Understanding Social Networks. Theories, Concepts and Findings. Oxford: Oxford University Press.\n\nClaude.ai summary\n\nPutnam, R.D. (1995). Bowling Alone: America’s Declining Social Capital. Journal of Democracy 6(1), 65-78.\n\nClaude.ai summary\n\n(Optional) Bourdieu, P. (1986). The forms of capital. In J. Richardson (Ed.) Handbook of Theory and Research for the Sociology of Education (New York, Greenwood), 241-258.\n\nClaude.ai summary\n\n(Optional) Rainie, L. and Perrin, A. (2019). Key findings about Americans’ declining trust in government and each other. Pew Research Center.\n(Optional) Burt, R. S. (2000). The network structure of social capital. Research in Organizational Behavior, 22, 345–423.\n\nLecture Video:\n [16:02]\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nWho Dunnit Game",
+    "text": "Tuesday\nAssignment Due:\n\nR Lab 4 - Intro to ggraph\nReading Review Assignments\n\nDiscussion Questions\n\n\nReadings:\n\nGranovetter, M. S. (1973). The Strength of Weak Ties. American Journal of Sociology, 78(6), 1360–1380. https://doi.org/10.1086/225469\n\nClaude.ai summary\n\nKadushin, C. (2012). Networks as Social Capital, in Kadushin, C. (2012). Understanding Social Networks. Theories, Concepts and Findings. Oxford: Oxford University Press.\n\nClaude.ai summary\n\nPutnam, R.D. (1995). Bowling Alone: America’s Declining Social Capital. Journal of Democracy 6(1), 65-78.\n\nClaude.ai summary\n\n(Optional) Bourdieu, P. (1986). The forms of capital. In J. Richardson (Ed.) Handbook of Theory and Research for the Sociology of Education (New York, Greenwood), 241-258.\n\nClaude.ai summary\n\n(Optional) Rainie, L. and Perrin, A. (2019). Key findings about Americans’ declining trust in government and each other. Pew Research Center.\n(Optional) Burt, R. S. (2000). The network structure of social capital. Research in Organizational Behavior, 22, 345–423.\n\nLecture Video:\n [16:02]\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nWho Dunnit Game\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -2293,6 +2293,20 @@
     "text": "Concept Review\n\nWhat aspects of power/influence do centrality measures miss?\nWhat can centralization tell us about a network?\nWhat does density tell us about a network?\nWhat is hierarchy?"
   },
   {
+    "objectID": "lectures/class_lectures/week_6.html#practical-review",
+    "href": "lectures/class_lectures/week_6.html#practical-review",
+    "title": "Week 6 - Centrality and Centralization",
+    "section": "Practical Review",
+    "text": "Practical Review\nWhat is the degree/closeness/betweenness centrality of node A?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_6.html#practical-review-1",
+    "href": "lectures/class_lectures/week_6.html#practical-review-1",
+    "title": "Week 6 - Centrality and Centralization",
+    "section": "Practical Review",
+    "text": "Practical Review\nWhat is the degree/closeness/betweenness centrality of node A?\n\nG |&gt;\n  mutate(degree = centrality_degree(),\n         closeness = centrality_closeness(),\n         betweenness = centrality_betweenness()) |&gt;\n  filter(name == \"A\")\n\n# A tbl_graph: 1 nodes and 0 edges\n#\n# An unrooted tree\n#\n# Node Data: 1 × 4 (active)\n  name  degree closeness betweenness\n  &lt;chr&gt;  &lt;dbl&gt;     &lt;dbl&gt;       &lt;dbl&gt;\n1 A          3     0.143         0.5\n#\n# Edge Data: 0 × 2\n# ℹ 2 variables: from &lt;int&gt;, to &lt;int&gt;"
+  },
+  {
     "objectID": "lectures/class_lectures/week_6.html#discussion-questions",
     "href": "lectures/class_lectures/week_6.html#discussion-questions",
     "title": "Week 6 - Centrality and Centralization",
@@ -2919,7 +2933,7 @@
     "href": "schedule/week_08.html",
     "title": "Week 8: Small worlds",
     "section": "",
-    "text": "Tuesday\nOCTOBER BREAK\n\n\nThursday\nAssignment Due (Wednesday):\n\nR Lab 5 - Aesthetics in ggraph\nReading Review Assignments\n\nReadings:\n\nThe Science of Six Degrees of Separation [video][9:22]\nTravers, J. and Milgram, S. (1969). An experimental study of the small world problem. Sociometry, 32(4):425-443\n\nClaude.ai summary\n\n(Optional but short) Dodds, P. S., Muhamad, R., & Watts, D. J. (2003). An Experimental Study of Search in Global Social Networks. Science, 301(5634), 827.\n\nLecture Video:\n [18:45]\n\nSlides",
+    "text": "Tuesday\nOCTOBER BREAK\n\n\nThursday\nAssignment Due (Wednesday):\n\nR Lab 5 - Aesthetics in ggraph\nReading Review Assignments\n\nDiscussion Questions\n\n\nReadings:\n\nThe Science of Six Degrees of Separation [video][9:22]\nTravers, J. and Milgram, S. (1969). An experimental study of the small world problem. Sociometry, 32(4):425-443\n\nClaude.ai summary\n\n(Optional but short) Dodds, P. S., Muhamad, R., & Watts, D. J. (2003). An Experimental Study of Search in Global Social Networks. Science, 301(5634), 827.\n\nLecture Video:\n [18:45]\n\nSlides\n\n\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -2931,7 +2945,7 @@
     "href": "schedule/week_10.html",
     "title": "Week 10: Social influence and diffusion",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nTurn in your Self Assessment Reflection on Brightspace\nR Lab 6 - Visualizing Power\nReading Review\n\nReadings:\n\nChapter 4, “Special People”, in Watts, D. J. (2011). Everything is Obvious: Once you know the answer. New York, NY: Crown Business.\nDuncan Watts on Common Sense\n(Optional) Centola, D., & Macy, M. (2007). Complex Contagions and the Weakness of Long Ties. American Journal of Sociology, 113(3), 702–734.\n(Optional) Christakis, N. A., & Fowler, J. H. (2012). Social contagion theory: Examining dynamic social networks and human behavior. Statistics in Medicine, 32, 556–577.\n\nWeekly lecture:\n\nSocial Influence and Contagion [22:12]\n\n\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nDo The Wisdom or Madness of Crowds Simulation",
+    "text": "Tuesday\nAssignment Due:\n\nTurn in your Self Assessment Reflection on Brightspace\nR Lab 6 - Visualizing Power\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nChapter 4, “Special People”, in Watts, D. J. (2011). Everything is Obvious: Once you know the answer. New York, NY: Crown Business.\nDuncan Watts on Common Sense\n(Optional) Centola, D., & Macy, M. (2007). Complex Contagions and the Weakness of Long Ties. American Journal of Sociology, 113(3), 702–734.\n(Optional) Christakis, N. A., & Fowler, J. H. (2012). Social contagion theory: Examining dynamic social networks and human behavior. Statistics in Medicine, 32, 556–577.\n\nWeekly lecture:\n\nSocial Influence and Contagion [22:12]\n\n\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nDo The Wisdom or Madness of Crowds Simulation\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -2943,7 +2957,7 @@
     "href": "schedule/week_12.html",
     "title": "Week 12: Collective behavior",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nR Lab 7 - Finding and visualizing groups in networks\nReading Review\n\nReadings:\n\nBecker, J., Brackbill, D., & Centola, D. (2017). Network dynamics of social influence in the wisdom of crowds. Proceedings of the National Academy of Sciences, 201615978.\nVideo discussion with Dr. Becker (watch after reading paper)\n\n\n\nThursday\n\nNo Class - Study for exam",
+    "text": "Tuesday\nAssignment Due:\n\nR Lab 7 - Finding and visualizing groups in networks\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nBecker, J., Brackbill, D., & Centola, D. (2017). Network dynamics of social influence in the wisdom of crowds. Proceedings of the National Academy of Sciences, 201615978.\nVideo discussion with Dr. Becker (watch after reading paper)\n\n\n\nThursday\n\nExam Review\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -2955,7 +2969,7 @@
     "href": "schedule/week_14.html",
     "title": "Week 14: Networks and collaboration",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nR Lab 8 - Calculating network statistics\nReading Review\n\nReadings:\n\nRead the Wikipedia Article about The Wealth of Networks\nSkim section two of Benkler, Y. (2002). Coase’s Penguin, or, Linux and “The Nature of the Firm.” The Yale Law Journal, 112(3), 369.\n\nLecture video:\n [17:19]\n\nSlides\n\n\n\n\n\nThursday\nAssignments Due:\n\nRough draft of Final Project on Brightspace and sent to your “peers”\n\nClass Schedule:\n\nNo class - work on Final Project",
+    "text": "Tuesday\nAssignment Due:\n\nR Lab 8 - Calculating network statistics\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nRead the Wikipedia Article about The Wealth of Networks\nSkim section two of Benkler, Y. (2002). Coase’s Penguin, or, Linux and “The Nature of the Firm.” The Yale Law Journal, 112(3), 369.\n\nLecture video:\n [17:19]\n\nSlides\n\n\n\n\n\nThursday\nAssignments Due:\n\nRough draft of Final Project on Brightspace and sent to your “peers”\n\nClass Schedule:\n\nNo class - work on Final Project\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
