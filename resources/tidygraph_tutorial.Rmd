@@ -49,7 +49,7 @@ In this example, we create a totally random network o and set it to the variable
 The second line, that just says `G` is so that R will show information about the network. It will tell us how many nodes and edges there are, and show information about the nodes and edges, if it exists (e.g., the age and major of nodes). In this network, we don't have any node information.
 
 ```{r}
-G = play_erdos_renyi(n = 20, p = .4)
+G = play_gnp(n = 20, p = .4)
 G
 ```
 

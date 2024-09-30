@@ -137,7 +137,7 @@ create_notable('zachary') |>
 ## Wisdom / Madness of Crowds
 
 ```{r}
-G = play_erdos_renyi(100, .1, directed=T) 
+G = play_gnp(100, .1, directed=T) 
 G |>
 mutate(in_d = centrality_degree(mode = "in"),
       out_d = centrality_degree(mode = "out")) |>
