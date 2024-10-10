@@ -27,12 +27,21 @@ library(ggraph)
 
 ## Housekeeping
 
+> - Started leaving feedback - hopefully will finish today
 > - Who Dunnit game on Thursday!
 
 ## Final Project
 
 > - Group project: network-based intervention (e.g., spreading an idea on campus)
 > - (Group?) research project: analysis of network data
+> - Project idea due in 2 weeks
+
+## Reading Questions
+
+> - What is a weak tie?
+> - What is the argument for why weak ties are better for finding information?
+> - What are strong ties better for?
+> - How does a network of strong ties look different from a network with weak ties?
 
 ## Reading Questions
 
@@ -41,12 +50,6 @@ library(ggraph)
 > - What is cultural capital?
 > - What is social capital?
 
-## Reading Questions
-
-> - What is a weak tie?
-> - What is the argument for why weak ties are better for finding information?
-> - What are strong ties better for?
-> - How does a network of strong ties look different from a network with weak ties?
 
 ## Reading Questions
 

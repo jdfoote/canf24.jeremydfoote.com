@@ -76,9 +76,9 @@ You may want to ask questions like:
 -   Are older students more likely to provide support to younger
     students?
 
-As with the Dutch school data, I\'ve prepared some files and some code
+As with the Dutch school data, I've prepared some files and some code
 to get you started. These data files are for the fifth book. You may
-want to remove nodes who don\'t have any edges (since they might not
+want to remove nodes who don't have any edges (since they might not
 even appear in the book).
 
 ``` R

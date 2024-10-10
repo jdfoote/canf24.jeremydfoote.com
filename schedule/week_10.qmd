@@ -9,6 +9,7 @@ date: "2024-10-22"
 
 * Turn in your [Self Assessment Reflection](/assignments/Self-Assessment-Reflection.qmd) on Brightspace
 * [R Lab 6 - Visualizing Power](/assignments/r_lab_6_%E2%80%93_visualizing_power.qmd)
+* [Social Search Assignment](/assignments/Social-Search-Assignment.qmd)
 * [Reading Review](/syllabus/syllabus.qmd#reading-review-assignments)
     * [Discussion Questions](#discussion-questions)
 

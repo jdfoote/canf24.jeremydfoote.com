@@ -33,7 +33,7 @@ A stick.
 >	- Try to find someone with driver's license from HI
 >	- No group texts
 >	- Diagram search network
->	- Instructions on wiki
+>	- Instructions on website
 
 ## Also upcoming
 
@@ -77,22 +77,6 @@ A stick.
 > - What was the Travers and Milgram experiment?
 > - How can we have such high triadic closure but still have short path lengths? What was the key insight from Watts and Strogatz?
 
-## Thursday plan
-
-> - Troubled Lands game or R?
 
 
 ## R Co-working time
-
-
-
-```{r}
-library(networkdata)
-
-bkfrab |> as_tbl_graph() |>
-activate(nodes) |>
-mutate(friendship_prop = map_local_dbl(order = 1, .f = function(neighborhood, ...) {
-    mean(as_tibble(neighborhood, active = 'edges')$type == 'friendship')
-}))
-
-```

@@ -2,7 +2,7 @@
 title: Whodunnit Activity
 format: 
   revealjs:
-    css: ../resources/custom_css.css
+    css: ../../resources/custom_css.css
     theme: white
     progress: true
     transition: convex
@@ -18,12 +18,12 @@ library(igraph)
 library(tidygraph)
 library(ggraph)
 library(tidyverse)
-nodes = read_csv('/home/jeremy/Teaching/communication_and_networks/resources/activities/who_dunnit/whodunnit_node_atts.csv')
-edges = read_csv('/home/jeremy/Teaching/communication_and_networks/resources/activities/who_dunnit/whodunnit_edgelist.csv')
+nodes = read_csv('./whodunnit_node_atts.csv')
+edges = read_csv('./whodunnit_edgelist.csv')
 
 ## DON'T FORGET TO CHANGE THIS
 
-num_players = 16
+num_players = 15
 
 G <- graph_from_data_frame(edges, v=nodes, directed = F) %>% as_tbl_graph() %>%
   activate(nodes) %>%
@@ -37,7 +37,7 @@ The boss in your organization has had valuable company secrets stolen from a dra
 
 ## The network
 
-<small>
+<div style='margin:-1em; font-size:60%;'>
 
 ```{r}
 x = G %>% as_adj_list()
@@ -45,7 +45,7 @@ df = tibble(id = 1:length(x), neighbors = sapply(x, paste, collapse=', '))
 knitr::kable(df)
 ```
 
-</small>
+</div>
 
 ## Rules
 
@@ -64,6 +64,12 @@ knitr::kable(df)
 > - The clues can be conveyed either verbally, or by showing your Who Dunnit Clue Track Sheet to the other person. Be sure to cover up the other clues you have recorded on this sheet. If a person gives you information you already have, you may ask them to give you a different clue _only once_ during each round. You do not have to have 'new' information to give the person you exchange with in order to get 'new' information from them.
 
 </div>
+
+## Make your guesses
+
+> - Write on the sheet
+> - Write on the board
+> - Who did you guess and why (tell us in as juicy a way as possible)
 
 
 ## Clues
