@@ -187,7 +187,7 @@ This is a Erdos-Renyi graph, where each edge is created randomly.
 
 ```{r}
 
-G = play_erdos_renyi(20, .4)
+G = play_gnp(20, .4)
 
 plot(G)
 
@@ -195,7 +195,7 @@ plot(G)
 
 ## Excercise
 
-The `play_erdos_renyi()` function above has two parameters, which have the values `20` and `.4`. Try changing the values and observing the result. What do you think each of these parameters do?
+The `play_gnp()` function above has two parameters, which have the values `20` and `.4`. Try changing the values and observing the result. What do you think each of these parameters do?
 
 
 YOUR ANSWER HERE

@@ -342,6 +342,7 @@
 <section id="housekeeping" class="slide level2">
 <h2>Housekeeping</h2>
 <ul>
+<li class="fragment">Started leaving feedback - hopefully will finish today</li>
 <li class="fragment">Who Dunnit game on Thursday!</li>
 </ul>
 </section>
@@ -350,24 +351,25 @@
 <ul>
 <li class="fragment">Group project: network-based intervention (e.g., spreading an idea on campus)</li>
 <li class="fragment">(Group?) research project: analysis of network data</li>
+<li class="fragment">Project idea due in 2 weeks</li>
 </ul>
 </section>
 <section id="reading-questions" class="slide level2">
-<h2>Reading Questions</h2>
-<ul>
-<li class="fragment">What is capital?</li>
-<li class="fragment">What is economic capital?</li>
-<li class="fragment">What is cultural capital?</li>
-<li class="fragment">What is social capital?</li>
-</ul>
-</section>
-<section id="reading-questions-1" class="slide level2">
 <h2>Reading Questions</h2>
 <ul>
 <li class="fragment">What is a weak tie?</li>
 <li class="fragment">What is the argument for why weak ties are better for finding information?</li>
 <li class="fragment">What are strong ties better for?</li>
 <li class="fragment">How does a network of strong ties look different from a network with weak ties?</li>
+</ul>
+</section>
+<section id="reading-questions-1" class="slide level2">
+<h2>Reading Questions</h2>
+<ul>
+<li class="fragment">What is capital?</li>
+<li class="fragment">What is economic capital?</li>
+<li class="fragment">What is cultural capital?</li>
+<li class="fragment">What is social capital?</li>
 </ul>
 </section>
 <section id="reading-questions-2" class="slide level2">
@@ -610,44 +612,6 @@
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
