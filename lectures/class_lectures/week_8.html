@@ -374,28 +374,28 @@
 
 </pre>
 <div class="r-stack">
-<p class="fragment step-fade-in-then-out" data-fragment-index="1">
+<p class="fragment fade-in-then-out" data-fragment-index="1">
 Loads the graph, which is stored as the variable <code>G</code> (the <code>|&gt;</code> sends the output to the next line)
 </p>
-<p class="fragment step-fade-in-then-out" data-fragment-index="2">
+<p class="fragment fade-in-then-out" data-fragment-index="2">
 Selects the nodes “spreadsheet” to edit. To activate the edges, run <code>activate(edges)</code>
 </p>
-<p class="fragment step-fade-in-then-out" data-fragment-index="3">
+<p class="fragment fade-in-then-out" data-fragment-index="3">
 Calculates the eigenvector centrality and saves it as a new column in the nodes spreadsheet. Note that we keep using <code>|&gt;</code> until we get to <code>ggraph()</code>
 </p>
-<p class="fragment step-fade-in-then-out" data-fragment-index="4">
+<p class="fragment fade-in-then-out" data-fragment-index="4">
 Tells R we want to take the network and make a plot from it. This is where we set the layout
 </p>
-<p class="fragment step-fade-in-then-out" data-fragment-index="5">
+<p class="fragment fade-in-then-out" data-fragment-index="5">
 Remember to add edges first.
 </p>
-<p class="fragment step-fade-in-then-out" data-fragment-index="6">
+<p class="fragment fade-in-then-out" data-fragment-index="6">
 The first argument is the “aesthetic mapping” - this maps aspects of the plot to variables in your data. In this case, we change the width of the edges based on the variable “weight”, which must be in our edges “spreadsheet”
 </p>
-<p class="fragment step-fade-in-then-out" data-fragment-index="7">
+<p class="fragment fade-in-then-out" data-fragment-index="7">
 We can also change the look of the plot universally. These options go <em>outside</em> of <code>aes()</code>
 </p>
-<p class="fragment step-fade-in-then-out" data-fragment-index="8">
+<p class="fragment fade-in-then-out" data-fragment-index="8">
 This code does similar operations to the nodes. It changes the size based on the centrality (which we calculated and defined in line 3) and changes the color of all nodes to <code>gold</code>
 </p>
 </div>
@@ -409,6 +409,13 @@ This code does similar operations to the nodes. It changes the size based on the
 <li class="fragment">Why would we expect networks with high triadic closure to have high geodesic distance?</li>
 <li class="fragment">What was the Travers and Milgram experiment?</li>
 <li class="fragment">How can we have such high triadic closure but still have short path lengths? What was the key insight from Watts and Strogatz?</li>
+</ul>
+</section>
+<section id="questions-from-3-2-1s" class="slide level2">
+<h2>Questions from 3-2-1s</h2>
+<ul>
+<li class="fragment">The video also mentioned that you are likely to be connected to someone in Manila as you are to someone in your hometown.</li>
+<li class="fragment">What is the exact definition of a groupy network? Is it just the nature of most networks that exist in the real world?</li>
 </ul>
 </section>
 <section id="r-co-working-time" class="slide level2">

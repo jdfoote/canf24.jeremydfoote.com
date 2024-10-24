@@ -201,7 +201,7 @@
     "href": "schedule/week_09.html",
     "title": "Week 9: Scale-free networks and the friendship paradox",
     "section": "",
-    "text": "Tuesday\nAssignment Due:\n\nProposal for Final Project; this is a few paragraphs about which final project you’d like to do, and what you are planning to do for it.\nTroubled Lands Reflection\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nFeld, Scott L. (1991), Why your friends have more friends than you do. American Journal of Sociology, 96 (6): 1464–1477. https://doi.org/10.1086%2F229693\nEarly Detection of an Outbreak using the Friendship Paradox\nNetworks are everywhere with Albert-László Barabási\n(Optional) Christakis, N. A., & Fowler, J. H. (2010). Social Network Sensors for Early Detection of Contagious Outbreaks. PLOS ONE, 5(9), e12948. https://doi.org/10.1371/journal.pone.0012948\n\nLecture Video:\n\nScale-free networks and the Friendship Paradox [18:21]\n\n\n\nSlides\n\n\n\n\n\nThursday\nAssignments Due:\n\nSocial Search Assignment\n\nClass Schedule:\n\nSix Degrees of Wikipedia Activity\n\n\n\nDiscussion Questions",
+    "text": "Tuesday\nAssignment Due:\n\nProposal for Final Project; this is a few paragraphs about which final project you’d like to do, and what you are planning to do for it.\nTroubled Lands Reflection\nReading Review\n\nDiscussion Questions\n\n\nReadings:\n\nFeld, Scott L. (1991), Why your friends have more friends than you do. American Journal of Sociology, 96 (6): 1464–1477. https://doi.org/10.1086%2F229693\nEarly Detection of an Outbreak using the Friendship Paradox\nNetworks are everywhere with Albert-László Barabási\n(Optional) Christakis, N. A., & Fowler, J. H. (2010). Social Network Sensors for Early Detection of Contagious Outbreaks. PLOS ONE, 5(9), e12948. https://doi.org/10.1371/journal.pone.0012948\n\nLecture Video:\n\nScale-free networks and the Friendship Paradox [18:21]\n\n\n\nSlides\n\n\n\n\n\nThursday\nClass Schedule:\n\nSix Degrees of Wikipedia Activity\n\n\n\nDiscussion Questions",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -637,56 +637,56 @@
   {
     "objectID": "lectures/class_lectures/week_9.html#dad-joke",
     "href": "lectures/class_lectures/week_9.html#dad-joke",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Dad Joke",
     "text": "Dad Joke\nWhy did the raisin go out with the prune?\n Because he couldn’t find a date."
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#housekeeping",
     "href": "lectures/class_lectures/week_9.html#housekeeping",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nThursday - 6 Degrees of Wikipedia\nSelf-assessment reflections and Lab 6 due after Spring Break"
+    "text": "Housekeeping\n\nThursday - 6 Degrees of Wikipedia"
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#review-questions",
     "href": "lectures/class_lectures/week_9.html#review-questions",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Review Questions",
     "text": "Review Questions\n\nWhat is a degree distribution?"
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#review-questions-1",
     "href": "lectures/class_lectures/week_9.html#review-questions-1",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Review Questions",
     "text": "Review Questions\n\nWhat is a scale-free distribution?\nWhen/where do we find scale-free distributions?\nWhat is an example of a network that would not have a scale-free distribution?\nWhat are the benefits of scale-free networks?"
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#review-questions-2",
     "href": "lectures/class_lectures/week_9.html#review-questions-2",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Review Questions",
     "text": "Review Questions\n\nWhat is the “friendship paradox”?\nHow is the friendship paradox useful?"
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#friendship-paradox-example",
     "href": "lectures/class_lectures/week_9.html#friendship-paradox-example",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Friendship Paradox Example",
     "text": "Friendship Paradox Example"
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#discussion-questions",
     "href": "lectures/class_lectures/week_9.html#discussion-questions",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Discussion Questions",
     "text": "Discussion Questions"
   },
   {
     "objectID": "lectures/class_lectures/week_9.html#visualization-challenge",
     "href": "lectures/class_lectures/week_9.html#visualization-challenge",
-    "title": "Week 9",
+    "title": "Week 9: Scale-Free Networks and the Friendship Paradox",
     "section": "Visualization Challenge",
     "text": "Visualization Challenge"
   },
@@ -1255,7 +1255,7 @@
     "href": "lectures/class_lectures/week_10.html#housekeeping",
     "title": "Diffusion and Contagion",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nSelf-assessment reflections due today\n\nIn-person feedback; sign up for spot on my calendar\n\nWisdom or Madness of Crowds simulation + R on Thursday"
+    "text": "Housekeeping\n\nSelf-assessment reflections due today\n\nIn-person feedback; sign up for spot on my calendar in November\n\nWisdom or Madness of Crowds simulation + R on Thursday"
   },
   {
     "objectID": "lectures/class_lectures/week_10.html#upcoming-assignments",
@@ -1269,7 +1269,7 @@
     "href": "lectures/class_lectures/week_10.html#example-questions",
     "title": "Diffusion and Contagion",
     "section": "Example questions",
-    "text": "Example questions\n\nWhat is a “multiplex” (or multidimensional) network?\nA network where there are multiple types of nodes\nA network with high centralization\nA network with a high clustering coefficient\nA network with multiple types of edges\nGive an example of how social capital can be exchanged for economic capital."
+    "text": "Example questions\n\nWhat is a “multiplex” (or multidimensional) network?\n\nA network where there are multiple types of nodes\nA network with high centralization\nA network with a high clustering coefficient\nA network with multiple types of edges\n\nGive an example of how social capital can be exchanged for economic capital."
   },
   {
     "objectID": "lectures/class_lectures/week_10.html#plan-for-today",
@@ -1318,7 +1318,7 @@
     "href": "lectures/class_lectures/week_10.html#wisdom-madness-of-crowds",
     "title": "Diffusion and Contagion",
     "section": "Wisdom / Madness of Crowds",
-    "text": "Wisdom / Madness of Crowds\n\n\n# A tibble: 1 × 1\n  median\n   &lt;dbl&gt;\n1   1.07"
+    "text": "Wisdom / Madness of Crowds\n\nHow does the majority illusion work?\nHow does this related to the spiral of silence?\nWhy is it tough to spread information across bridges?\nWhat is the role of people who aren’t easily influenced in contagions?"
   },
   {
     "objectID": "index.html",
@@ -1332,7 +1332,7 @@
     "href": "class_lectures.html",
     "title": "In-class Lecture Slides",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n \n\n\nWeek 2 - Network Data and Network Types\n\n\n \n\n\n\n\n \n\n\nWeek 3 - Edge Formation\n\n\n \n\n\n\n\n \n\n\nWeek 4 - Small Group Networks\n\n\n \n\n\n\n\n \n\n\nWeek 11 - Communities in Networks\n\n\n \n\n\n\n\n \n\n\nWeek 5 - Ego Networks\n\n\n \n\n\n\n\n \n\n\nWeek 6 - Centrality and Centralization\n\n\n \n\n\n\n\n \n\n\nCapital and Social Capital\n\n\n \n\n\n\n\n \n\n\nDiffusion and Contagion\n\n\n \n\n\n\n\n \n\n\nNetwork Visualization and Wrap Up\n\n\n \n\n\n\n\n \n\n\nNetworks and Inequality\n\n\n \n\n\n\n\n \n\n\nWeek 12 - Collective Behavior\n\n\n \n\n\n\n\n \n\n\nWeek 13 - Collective behavior\n\n\n \n\n\n\n\n \n\n\nWeek 14 - Cooperation\n\n\n \n\n\n\n\n \n\n\nWeek 8\n\n\n \n\n\n\n\n \n\n\nWeek 9\n\n\n \n\n\n\n\nJan 1, 2001\n\n\nWelcome to COM 411: Communication and Social Networks!\n\n\n \n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n \n\n\nWeek 2 - Network Data and Network Types\n\n\n \n\n\n\n\n \n\n\nWeek 3 - Edge Formation\n\n\n \n\n\n\n\n \n\n\nWeek 4 - Small Group Networks\n\n\n \n\n\n\n\n \n\n\nWeek 11 - Communities in Networks\n\n\n \n\n\n\n\n \n\n\nWeek 5 - Ego Networks\n\n\n \n\n\n\n\n \n\n\nWeek 6 - Centrality and Centralization\n\n\n \n\n\n\n\n \n\n\nCapital and Social Capital\n\n\n \n\n\n\n\n \n\n\nDiffusion and Contagion\n\n\n \n\n\n\n\n \n\n\nNetwork Visualization and Wrap Up\n\n\n \n\n\n\n\n \n\n\nNetworks and Inequality\n\n\n \n\n\n\n\n \n\n\nWeek 12 - Collective Behavior\n\n\n \n\n\n\n\n \n\n\nWeek 13 - Collective behavior\n\n\n \n\n\n\n\n \n\n\nWeek 14 - Cooperation\n\n\n \n\n\n\n\n \n\n\nWeek 8\n\n\n \n\n\n\n\n \n\n\nWeek 9: Scale-Free Networks and the Friendship Paradox\n\n\n \n\n\n\n\nJan 1, 2001\n\n\nWelcome to COM 411: Communication and Social Networks!\n\n\n \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "assignments/r_lab_7_–_groups_in_networks.html#assignment-file",
@@ -1420,7 +1420,7 @@
     "href": "assignments/Visualization-challenge.html#dutch_school_data",
     "title": "Visualization challenge",
     "section": "Dutch School Data",
-    "text": "Dutch School Data\nIn 2003 and 2004, researchers repeatedly surveyed a number of Dutch school students about their friendships and their behavior. They were particularly interested in the relationship between friendships and drinking behavior. They recorded information about alcohol use, gender, age, ethnicity (whether Dutch or not), and religion.\nYou may want to ask questions like:\n\nAre people who drink more more popular?\nAre males or females more likely to have the same drinking behavior as their friends?\nAre people of the dominant religion more likely to be popular? More likely to be friends with each other?\n\n\nResources\nThe Introduction to ggraph and tidygraph reading actually uses this dataset. You can look to that for examples to build on.\nData:\n\nNode data\nEdge data\n\nDescriptions of what each measure means are at this site, maintained by the people who collected the data.\nTo import the data you can right-click on and save the edge and node data files above to your computer and then import them into R.\nAlternatively, the following code will download the files and create a graph object. You are welcome to reuse it.\nlibrary(tidyverse)\nlibrary(igraph)\nlibrary(tidygraph)\nlibrary(ggraph)\n\nnodes = read_csv('https://raw.githubusercontent.com/jdfoote/Communication-and-Social-Networks/fall-2022/resources/school_graph_nodes.csv')\nedges = read_csv('https://raw.githubusercontent.com/jdfoote/Communication-and-Social-Networks/fall-2022/resources/school_graph_edges.csv')\n\nG = graph_from_data_frame(d=edges, v=nodes) %&gt;% as_tbl_graph()",
+    "text": "Dutch School Data\nIn 2003 and 2004, researchers repeatedly surveyed a number of Dutch school students about their friendships and their behavior. They were particularly interested in the relationship between friendships and drinking behavior. They recorded information about alcohol use, gender, age, ethnicity (whether Dutch or not), and religion.\nYou may want to ask questions like:\n\nAre people who drink more more popular?\nAre males or females more likely to have the same drinking behavior as their friends?\nAre people of the dominant religion more likely to be popular? More likely to be friends with each other?\n\n\nResources\nThe Introduction to ggraph and tidygraph reading actually uses this dataset. You can look to that for examples to build on.\nData:\n\nNode data\nEdge data\n\nDescriptions of what each measure means are at this site, maintained by the people who collected the data.\nTo import the data you can right-click on and save the edge and node data files above to your computer and then import them into R.\nAlternatively, the following code will download the files and create a graph object. You are welcome to reuse it.\nlibrary(tidyverse)\nlibrary(igraph)\nlibrary(tidygraph)\nlibrary(ggraph)\n\nnodes = read_csv('https://canf24.jeremydfoote.com/resources/school_graph_nodes.csv')\nedges = read_csv('https://canf24.jeremydfoote.com/resources/school_graph_edges.csv')\n\nG = graph_from_data_frame(d=edges, v=nodes) %&gt;% as_tbl_graph()",
     "crumbs": [
       "Assignments",
       "Visualization challenge"
@@ -1431,7 +1431,7 @@
     "href": "assignments/Visualization-challenge.html#harry_potter_data",
     "title": "Visualization challenge",
     "section": "Harry Potter Data",
-    "text": "Harry Potter Data\nThe authors of this paper coded all of the peer support relationships in Harry Potter books. For each student, they also recorded their school year, gender and house.\nYou may want to ask questions like:\n\nAre students of the same gender more likely to provide support?\nAre Slytherins less likely to provide support?\nAre older students more likely to provide support to younger students?\n\nAs with the Dutch school data, I’ve prepared some files and some code to get you started. These data files are for the fifth book. You may want to remove nodes who don’t have any edges (since they might not even appear in the book).\nlibrary(tidyverse)\nlibrary(igraph)\nlibrary(tidygraph)\nlibrary(ggraph)\n\nnodes = read_csv('https://github.com/jdfoote/Communication-and-Social-Networks/raw/master/resources/harry_potter_files/hp_node_atts.csv')\nedges = read_csv('https://github.com/jdfoote/Communication-and-Social-Networks/raw/master/resources/harry_potter_files/hp_edgelist.csv')\n\nG = graph_from_data_frame(d=edges, v=nodes) %&gt;% as_tbl_graph()",
+    "text": "Harry Potter Data\nThe authors of this paper coded all of the peer support relationships in Harry Potter books. For each student, they also recorded their school year, gender and house.\nYou may want to ask questions like:\n\nAre students of the same gender more likely to provide support?\nAre Slytherins less likely to provide support?\nAre older students more likely to provide support to younger students?\n\nAs with the Dutch school data, I’ve prepared some files and some code to get you started. These data files are for the fifth book. You may want to remove nodes who don’t have any edges (since they might not even appear in the book).\nlibrary(tidyverse)\nlibrary(igraph)\nlibrary(tidygraph)\nlibrary(ggraph)\n\nnodes = read_csv('https://canf24.jeremydfoote.com/resources/harry_potter/hp_node_atts.csv')\nedges = read_csv('https://canf24.jeremydfoote.com/resources/harry_potter/hp_edgelist.csv')\n\nG = graph_from_data_frame(d=edges, v=nodes) %&gt;% as_tbl_graph()",
     "crumbs": [
       "Assignments",
       "Visualization challenge"
@@ -2385,6 +2385,13 @@
     "title": "Week 8",
     "section": "Review Questions",
     "text": "Review Questions\n\nWhat is a “path”? What is the “path length” of a path?\nWhat is the “geodesic distance” or “diameter” of a network?\nWhat is triadic closure?\nWhy would we expect networks with high triadic closure to have high geodesic distance?\nWhat was the Travers and Milgram experiment?\nHow can we have such high triadic closure but still have short path lengths? What was the key insight from Watts and Strogatz?"
+  },
+  {
+    "objectID": "lectures/class_lectures/week_8.html#questions-from-3-2-1s",
+    "href": "lectures/class_lectures/week_8.html#questions-from-3-2-1s",
+    "title": "Week 8",
+    "section": "Questions from 3-2-1s",
+    "text": "Questions from 3-2-1s\n\nThe video also mentioned that you are likely to be connected to someone in Manila as you are to someone in your hometown.\nWhat is the exact definition of a groupy network? Is it just the nature of most networks that exist in the real world?"
   },
   {
     "objectID": "lectures/class_lectures/week_8.html#r-co-working-time",

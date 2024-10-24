@@ -343,7 +343,7 @@
 <ul>
 <li class="fragment">Self-assessment reflections due today
 <ul>
-<li class="fragment">In-person feedback; sign up for spot on my calendar</li>
+<li class="fragment">In-person feedback; sign up for spot on my calendar in November</li>
 </ul></li>
 <li class="fragment">Wisdom or Madness of Crowds simulation + R on Thursday</li>
 </ul>
@@ -361,11 +361,13 @@
 <section id="example-questions" class="slide level2">
 <h2>Example questions</h2>
 <ul>
-<li class="fragment">What is a “multiplex” (or multidimensional) network?</li>
+<li class="fragment">What is a “multiplex” (or multidimensional) network?
+<ul>
 <li class="fragment">A network where there are multiple types of nodes</li>
 <li class="fragment">A network with high centralization</li>
 <li class="fragment">A network with a high clustering coefficient</li>
 <li class="fragment">A network with multiple types of edges</li>
+</ul></li>
 <li class="fragment">Give an example of how social capital can be exchanged for economic capital.</li>
 </ul>
 </section>
@@ -391,7 +393,7 @@
 <div class="cell-output-display">
 <div>
 <figure>
-<p><img data-src="week_10_files/figure-html/unnamed-chunk-1-1.png" width="672"></p>
+<p><img data-src="week_10_files/figure-revealjs/unnamed-chunk-1-1.png" width="960"></p>
 </figure>
 </div>
 </div>
@@ -402,7 +404,7 @@
 <div class="cell-output-display">
 <div>
 <figure>
-<p><img data-src="week_10_files/figure-html/unnamed-chunk-2-1.png" width="672"></p>
+<p><img data-src="week_10_files/figure-revealjs/unnamed-chunk-2-1.png" width="960"></p>
 </figure>
 </div>
 </div>
@@ -418,7 +420,7 @@
 <div class="cell-output-display">
 <div>
 <figure>
-<p><img data-src="week_10_files/figure-html/unnamed-chunk-3-1.png" width="672"></p>
+<p><img data-src="week_10_files/figure-revealjs/unnamed-chunk-3-1.png" width="960"></p>
 </figure>
 </div>
 </div>
@@ -429,7 +431,7 @@
 <div class="cell-output-display">
 <div>
 <figure>
-<p><img data-src="week_10_files/figure-html/unnamed-chunk-4-1.png" width="672"></p>
+<p><img data-src="week_10_files/figure-revealjs/unnamed-chunk-4-1.png" width="960"></p>
 </figure>
 </div>
 </div>
@@ -450,14 +452,12 @@
 </section>
 <section id="wisdom-madness-of-crowds" class="slide level2">
 <h2>Wisdom / Madness of Crowds</h2>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 1 × 1
-  median
-   &lt;dbl&gt;
-1   1.07</code></pre>
-</div>
-</div>
+<ul>
+<li class="fragment">How does the majority illusion work?</li>
+<li class="fragment">How does this related to the spiral of silence?</li>
+<li class="fragment">Why is it tough to spread information across bridges?</li>
+<li class="fragment">What is the role of people who aren’t easily influenced in contagions?</li>
+</ul>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
@@ -675,6 +675,44 @@
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
