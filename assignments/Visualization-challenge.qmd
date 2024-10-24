@@ -57,8 +57,8 @@ library(igraph)
 library(tidygraph)
 library(ggraph)
 
-nodes = read_csv('https://raw.githubusercontent.com/jdfoote/Communication-and-Social-Networks/fall-2022/resources/school_graph_nodes.csv')
-edges = read_csv('https://raw.githubusercontent.com/jdfoote/Communication-and-Social-Networks/fall-2022/resources/school_graph_edges.csv')
+nodes = read_csv('https://canf24.jeremydfoote.com/resources/school_graph_nodes.csv')
+edges = read_csv('https://canf24.jeremydfoote.com/resources/school_graph_edges.csv')
 
 G = graph_from_data_frame(d=edges, v=nodes) %>% as_tbl_graph()
 ```
@@ -87,8 +87,8 @@ library(igraph)
 library(tidygraph)
 library(ggraph)
 
-nodes = read_csv('https://github.com/jdfoote/Communication-and-Social-Networks/raw/master/resources/harry_potter_files/hp_node_atts.csv')
-edges = read_csv('https://github.com/jdfoote/Communication-and-Social-Networks/raw/master/resources/harry_potter_files/hp_edgelist.csv')
+nodes = read_csv('https://canf24.jeremydfoote.com/resources/harry_potter/hp_node_atts.csv')
+edges = read_csv('https://canf24.jeremydfoote.com/resources/harry_potter/hp_edgelist.csv')
 
 G = graph_from_data_frame(d=edges, v=nodes) %>% as_tbl_graph()
 ```
