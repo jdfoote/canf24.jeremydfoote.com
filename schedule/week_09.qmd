@@ -33,9 +33,6 @@ date: "2024-10-15"
 
 ### Thursday
 
-**Assignments Due:**
-
-* [Social Search Assignment](/assignments/Social-Search-Assignment.qmd)
 
 **Class Schedule:**
 

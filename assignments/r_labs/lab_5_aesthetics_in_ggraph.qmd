@@ -119,14 +119,13 @@ Looking at our data, the edges don't have weights. For your exercise, we'll put 
 
 ## Exercise
 
-Load the `bkfrab` dataset (also from `networkdata`, so load it in the same way as the `ff_elite` data above). This records how often pairs of subjects were seen talking to each other in a fraternity. Map the `alpha` of the edge to the `weight` in the `edges` dataframe.
+Load the `bkfrab` dataset (also from `networkdata`, so load it in the same way as the `ffe_friends` data above). This records how often pairs of subjects were seen talking to each other in a fraternity. Map the `alpha` of the edge to the `weight` in the `edges` dataframe.
 
 Hints: Remember to use `as_tbl_graph` to change the network type, and to `activate` the edges dataframe.
 
 
 ```{r}
 # Your code here
-
 
 ```
 

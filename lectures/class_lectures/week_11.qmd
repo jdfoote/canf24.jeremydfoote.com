@@ -104,8 +104,8 @@ ggraph(layout='stress') +
   geom_edge_fan(alpha=.3) +
   geom_node_point(aes(color=coreness)) +
   scale_color_viridis_c(name='Coreness')
-
 ```
+
 </div>
 
 ## Discussion Questions

@@ -11,6 +11,7 @@ resources:
     - "assignments/r_labs/*.qmd"
     - "assignments/ego_networks/*.qmd"
     - "CNAME"
+    - "resources/**/*"
 
 pre-render:
   - python scripts/create_assignment_files.py

@@ -1,5 +1,5 @@
 ---
-title: Week 9
+title: "Week 9: Scale-Free Networks and the Friendship Paradox"
 format: 
   revealjs:
     css: /resources/custom_css.css
@@ -31,7 +31,6 @@ Because he couldn't find a date.
 ## Housekeeping
 
 > - Thursday - 6 Degrees of Wikipedia
-> - Self-assessment reflections and Lab 6 due after Spring Break
 
 ## Review Questions
 

@@ -31,7 +31,7 @@ Me: "Listening. I would say listening is my biggest weakness."
 ## Housekeeping
 
 > - Self-assessment reflections due today
->	- In-person feedback; sign up for spot on my calendar
+>	- In-person feedback; sign up for spot on my calendar in November
 > - Wisdom or Madness of Crowds simulation + R on Thursday
 
 ## Upcoming Assignments
@@ -42,10 +42,10 @@ Me: "Listening. I would say listening is my biggest weakness."
 
 ## Example questions
 > - What is a "multiplex" (or multidimensional) network?
-  > - A network where there are multiple types of nodes
-  > - A network with high centralization
-  > - A network with a high clustering coefficient
-  > - A network with multiple types of edges
+>   - A network where there are multiple types of nodes
+>   - A network with high centralization
+>   - A network with a high clustering coefficient
+>   - A network with multiple types of edges
 > - Give an example of how social capital can be exchanged for economic capital.
 
 ## Plan for today
@@ -136,15 +136,7 @@ create_notable('zachary') |>
 
 ## Wisdom / Madness of Crowds
 
-```{r}
-G = play_gnp(100, .1, directed=T) 
-G |>
-mutate(in_d = centrality_degree(mode = "in"),
-      out_d = centrality_degree(mode = "out")) |>
-mutate(ratio = in_d / out_d) |>
-as_tibble() |>
-# Get median
-summarize(median = mean(ratio))
-
-
-```
+> - How does the majority illusion work?
+> - How does this related to the spiral of silence?
+> - Why is it tough to spread information across bridges?
+> - What is the role of people who aren't easily influenced in contagions?
