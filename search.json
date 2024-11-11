@@ -1108,7 +1108,7 @@
     "href": "lectures/class_lectures/week_12.html#housekeeping",
     "title": "Week 12 - Collective Behavior",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nExam next week\n\nOpen book / open note / open internet?\nShort response + multiple choice\n\nReview on Thursday"
+    "text": "Housekeeping\n\nExam next week\n\nOpen book / open note / open internet?\nShort response + multiple choice"
   },
   {
     "objectID": "lectures/class_lectures/week_12.html#final-project",
@@ -1213,7 +1213,7 @@
     "href": "lectures/class_lectures/week_12.html#example",
     "title": "Week 12 - Collective Behavior",
     "section": "Example",
-    "text": "Example\n\nWhat code produces this graph?\n\n\n\n\n\n\n\n\n\n\n\n\n\nG |&gt;\n  mutate(centrality = centrality_degree()) |&gt;\n  activate(edges) |&gt;\n  ggraph() +\n  geom_edge_fan(color = 'purple') +\n  geom_node_point(aes(size = centrality), color = 'green')"
+    "text": "Example\n\nWhat code produces this graph?\n\n\nG |&gt;\n  mutate(centrality = centrality_degree()) |&gt;\n  activate(edges) |&gt;\n  ggraph() +\n  geom_edge_fan(color = 'purple') +\n  geom_node_point(aes(size = centrality), color = 'green')"
   },
   {
     "objectID": "lectures/class_lectures/week_12.html#exam-review-1",
@@ -2034,7 +2034,7 @@
     "href": "lectures/class_lectures/week_11.html#housekeeping",
     "title": "Week 11 - Communities in Networks",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nMake an appointment for Self Assessment Reflection review\nSubmit Exam Questions ASAP"
+    "text": "Housekeeping\n\nMake an appointment for Self Assessment Reflection review\nSubmit Exam Questions ASAP\nWhat to do on Thursday - R Lab or activity?\nNo class on Tuesday, November 5th\n\nConversation on Discord instead\nPost 1 question and 1 thing you’ve learned\nRespond to 2 other posts"
   },
   {
     "objectID": "lectures/class_lectures/week_11.html#plan-for-today",
@@ -2069,7 +2069,7 @@
     "href": "lectures/class_lectures/week_11.html#discussion-questions",
     "title": "Week 11 - Communities in Networks",
     "section": "Discussion Questions",
-    "text": "Discussion Questions"
+    "text": "Discussion Questions\n\nDo k-plexes really happen? Are you really connected to everyone but one person?\nClustering coefficient\nHomophily vs. cliques\nNetworks vs. communities\nMinimum size of core"
   },
   {
     "objectID": "lectures/class_lectures/week_13.html#dad-joke",

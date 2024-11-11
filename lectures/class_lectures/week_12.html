@@ -413,7 +413,6 @@ Times were hard.
 <li class="fragment">Open book / open note / open internet?</li>
 <li class="fragment">Short response + multiple choice</li>
 </ul></li>
-<li class="fragment">Review on Thursday</li>
 </ul>
 </section>
 <section id="final-project" class="slide level2">
@@ -533,27 +532,15 @@ Times were hard.
 <section id="example" class="slide level2">
 <h2>Example</h2>
 <ul>
-<li class="fragment">What code produces this graph?</li>
+<li>What code produces this graph?</li>
 </ul>
-<div class="fragment">
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure>
-<p><img data-src="week_12_files/figure-revealjs/unnamed-chunk-3-1.png" width="960"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<div class="fragment">
-<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a>G <span class="sc">|&gt;</span></span>
+
+<img data-src="week_12_files/figure-revealjs/unnamed-chunk-3-1.png" width="960" class="r-stretch"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a>G <span class="sc">|&gt;</span></span>
 <span id="cb1-2"><a></a>  <span class="fu">mutate</span>(<span class="at">centrality =</span> <span class="fu">centrality_degree</span>()) <span class="sc">|&gt;</span></span>
 <span id="cb1-3"><a></a>  <span class="fu">activate</span>(edges) <span class="sc">|&gt;</span></span>
 <span id="cb1-4"><a></a>  <span class="fu">ggraph</span>() <span class="sc">+</span></span>
 <span id="cb1-5"><a></a>  <span class="fu">geom_edge_fan</span>(<span class="at">color =</span> <span class="st">'purple'</span>) <span class="sc">+</span></span>
 <span id="cb1-6"><a></a>  <span class="fu">geom_node_point</span>(<span class="fu">aes</span>(<span class="at">size =</span> centrality), <span class="at">color =</span> <span class="st">'green'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
 </section>
 <section id="exam-review-1" class="slide level2">
 <h2>Exam Review</h2>
