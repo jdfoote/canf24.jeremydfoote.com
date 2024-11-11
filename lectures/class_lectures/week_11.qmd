@@ -45,6 +45,11 @@ My thoughts are with his family.
 
 > - Make an appointment for Self Assessment Reflection review
 > - Submit Exam Questions ASAP
+> - What to do on Thursday - R Lab or activity?
+> - No class on Tuesday, November 5th
+>   - Conversation on Discord instead
+>   - Post 1 question and 1 thing you've learned
+>   - Respond to 2 other posts
 
 ## Plan for today
 
@@ -109,3 +114,9 @@ ggraph(layout='stress') +
 </div>
 
 ## Discussion Questions
+
+> - Do k-plexes really happen? Are you really connected to everyone but one person?
+> - Clustering coefficient
+> - Homophily vs. cliques
+> - Networks vs. communities
+> - Minimum size of core

@@ -20,7 +20,8 @@ library(ggraph)
 library(tidyverse)
 library(networkdata)
 # Set graph theme
-df = read_csv('./resources/wisdom_of_crowds_activity.csv')
+df = read_csv('./resources/wisdom_of_crowds_activity.csv') |>
+  filter(is.na(Guess)==F)
 
 ```
 
@@ -37,7 +38,6 @@ Times were hard.
 > - Exam next week
 >	- Open book / open note / open internet?
 >	- Short response  + multiple choice
-> - Review on Thursday
 
 ## Final Project
 
@@ -105,7 +105,7 @@ df |>
   filter(Network_Type == 'Decentralized') |>
   ggplot() +
   geom_density(aes(x = Guess, fill = as_factor(Round)), alpha = .3) + #, position='dodge', bins = 5) + 
-  geom_vline(xintercept=294, color = 'red', linetype='dashed') + 
+  geom_vline(xintercept=182, color = 'red', linetype='dashed') + 
   theme_minimal() + 
   scale_fill_viridis_d(name='Round')
 ```
@@ -117,7 +117,7 @@ df |>
   filter(Network_Type == 'Centralized') |>
   ggplot() +
   geom_density(aes(x = Guess, fill = as_factor(Round)), alpha = .3) + #, position='dodge', bins = 5) + 
-  geom_vline(xintercept=374, color = 'red', linetype='dashed') + 
+  geom_vline(xintercept=294, color = 'red', linetype='dashed') + 
   theme_minimal() + 
   scale_fill_viridis_d(name='Round')
 ```
@@ -145,9 +145,8 @@ df |>
 
 ## Example
 
-> - What code produces this graph?
+- What code produces this graph?
 
-<div class='fragment'>
 
 ```{r, echo=FALSE}
 G <- play_gnp(18, .15, directed = F) |> as_tbl_graph()
@@ -161,9 +160,6 @@ G |>
   geom_node_point(aes(size = centrality), color = 'green')
 ```
 
-</div>
-
-<div class='fragment'>
 
 ```r
 G |>
@@ -174,7 +170,6 @@ G |>
   geom_node_point(aes(size = centrality), color = 'green')
   ```
 
-</div>
 
 ## Exam Review
 
