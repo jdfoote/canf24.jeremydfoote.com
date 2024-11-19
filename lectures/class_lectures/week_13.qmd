@@ -1,5 +1,5 @@
 ---
-title: Week 13 - Collective behavior
+title: Week 13 - Networks and Technology
 format: 
   revealjs:
     css: /resources/custom_css.css
@@ -31,7 +31,8 @@ He took too many days off!
 
 ## Housekeeping
 
-> EXAM ON THURSDAY!!
+> - EXAM ON THURSDAY!!
+> - Sign up for a time to discuss self-assessment and final project
 
 ## Review Questions
 

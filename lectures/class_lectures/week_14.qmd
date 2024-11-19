@@ -29,11 +29,18 @@ Now I'm in hot water with the Japanese mafia.
 
 ## Housekeeping
 
-> - Draft of final project to peers on Thursday
->	- I will make assignments and send a Brightspace + discord announcement
->	- Feedback by next Tuesday
->   - May want to look at the Advanced R Rmd file
+> - Final project schedule
+>   - Rough draft on Tuesday before Thanksgiving
+>   - Peer feedback by the following Tuesday
+>   - Presentations on the last day of class
+>   - Final report due on December 11th
+>	- I will make peer assignments and send a Brightspace + discord announcement
+> - May want to look at the Advanced R Rmd file
 
+## Housekeeping
+
+> - No class on Tuesday before Thanksgiving - work on final project
+> - Troubled Lands activity Thursday
 
 ## Plan for today
 
