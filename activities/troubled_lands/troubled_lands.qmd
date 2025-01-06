@@ -1,21 +1,17 @@
-
 ---
 title: Troubled Lands Activity
-template: "../resources/template.html"
-output: 
-  revealjs::revealjs_presentation:
+format: 
+  revealjs:
+    css: /resources/custom_css.css
     theme: white
     progress: true
     transition: convex
-    self_contained: false
-    css: .././resources/custom_css.css
-    lib: ../../libs
-    allow_uptree_lib_dir: true
+    reveal_plugins: ['notes']
 ---
 
 ## Troubled Lands Explainer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eIchwB6xJJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="330" src="https://www.youtube.com/embed/eIchwB6xJJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Troubled Lands
 
